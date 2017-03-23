@@ -1,0 +1,11 @@
+{
+  "name": "alexa-skill-hnreader-serverless",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to use an AWS Lambdas for your custom Alexa skill. This skill tells the user the top story on HackerNews",
+  "author": "Shaurav Garg",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "firebase": "^3.7.3"
+  }
+}
